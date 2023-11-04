@@ -15,7 +15,7 @@ import discord
 import RPi.GPIO as GPIO
 from discord.ext import commands
 
-BOT_TOKEN = "NDk2ODI3Nzk1Nzg0MzM1Mzcx.GkGcbP.tlrGWLWRmaIlXW32q3W5XvrXMQPEdrM8nkr0iM"
+BOT_TOKEN = "PUT_YOUR_TOKEN_HERE"
 LED_OUTPUT = 18
 LED_ON = GPIO.HIGH
 LED_OFF = GPIO.LOW
