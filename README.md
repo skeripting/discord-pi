@@ -16,6 +16,7 @@ To use this code, you'll first need a Discord bot. To create one, follow the ins
 2. Connect the cathode (short leg) to GND.
 
 # Getting Started
+## Setting up the source
 1. Create a file called "bot" in your Pi. I placed mine inside of Desktop.
 2. Use the shell to Navigate to the "bot" directory. For me, that was `cd Desktop/bot`
 3. Install `discord.py` with `sudo python3 -m pip install -U discord.py` on the Raspberry Pi
@@ -23,7 +24,7 @@ To use this code, you'll first need a Discord bot. To create one, follow the ins
 5. Replace the `BOT_TOKEN` constant in the `bot.py` file with the bot authentication token that you obtained from Discord under the Prerequisites.
 6. Run the file, and send a direct message to the bot.
 
-# Commands
+## Commands
 1. `!on` - Turn the LED on
 2. `!off` - Turn the LED off
 
