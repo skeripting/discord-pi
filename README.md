@@ -1,3 +1,5 @@
+> turn an LED on and off using a Discord chat command and a Raspberry Pi
+
 # discord-pi
 This repo contains sample source code to interface the Raspberry Pi 4 with the discord API. 
 To use this code, you'll first need a Discord bot. To create one, follow the instructions below:
